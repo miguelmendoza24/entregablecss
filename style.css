@@ -48,7 +48,7 @@ nav ul li a {
 .text-overlay {
   position: absolute;
   top: 30%; 
-  left: 1%; /
+  left: 1%;
   transform: translate(-50%, -50%); 
   color: white; 
   font-size: 100px; 
